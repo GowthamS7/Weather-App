@@ -65,13 +65,4 @@ If you'd like to contribute to the project, follow these steps:
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Acknowledgments
 
-- Special thanks to [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API.
-- Shoutout to [Name of any libraries or resources you used] for their contributions.
-
-Feel free to reach out if you have any questions or feedback!
-
-```
-
-Make sure to replace the placeholders like `path/to/your/logo.png`, `path/to/screenshot1.png`, and `path/to/screenshot2.png` with the actual paths to your logo and screenshots. Additionally, customize the sections like "Overview," "Features," and "Technologies Used" based on the specifics of your project.
